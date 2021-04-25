@@ -5,7 +5,7 @@
 Link to [Devpost](https://devpost.com/software/copilote) from the hackathon
 
 ## Inspiration
-During a hackathon in early 2020, our team wanted to help the visually impaired using a pre-built machine with learning models offered by GCP's Cloud Vision API. With all the machine learning models pre-built it allowed us to quickly develop a system which will provide real time feedback to the user.
+During a hackathon in early 2019, our team wanted to help the visually impaired using a pre-built machine with learning models offered by GCP's Cloud Vision API. With all the machine learning models pre-built it allowed us to quickly develop a system which will provide real time feedback to the user.
 
 ## What it does
 The system we built captures the environment using a pi camera which then calls the Cloud Vision API to label the image. Using the labels from the image we are able to detect important information in the users surroundings. Examples include stop signs, crosswalks, and bus signs. Once the system detects these examples, the machine then feedbacks that information to the user in the form haptic shaking in the handle of walking stick and audio playback to the user.
@@ -16,3 +16,11 @@ We built it using the raspberry pi that is running a distribution of linux with 
 ## Challenges I ran into
 The biggest challenges we ran into was what platform to build this product on. We initially were going to build it for android mobile, but we later pivoted to a more hardware based approach with the raspberry pi.
 
+ <summary>Click for more Pictures</summary>
+     
+     ![pic1](Images/IMG_2363.HEIC)
+     ![pic2](Images/IMG_2364.HEIC)
+     ![pic3](Images/IMG_2365.HEIC)
+     ![pic4](Images/IMG_2366.HEIC)
+
+   </details>
