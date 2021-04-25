@@ -20,16 +20,16 @@ The biggest challenges we ran into was what platform to build this product on. W
 <p>
 
 **Picture 1**
-![pic1](Images/IMG_2363.HEIC)
+![pic1](Images/IMG_2363.jpeg)
 
 **Picture 2**
-![pic2](Images/IMG_2364.HEIC)
+![pic2](Images/IMG_2364.jpeg)
 
 **Picture 3**
-![pic3](Images/IMG_2365.HEIC)
+![pic3](Images/IMG_2365.jpeg)
 
 **Picture 4**
-![pic4](Images/IMG_2366.HEIC)
+![pic4](Images/IMG_2366.jpeg)
 
 </p>
 </details>
