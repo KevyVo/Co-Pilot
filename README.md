@@ -16,11 +16,20 @@ We built it using the raspberry pi that is running a distribution of linux with 
 ## Challenges I ran into
 The biggest challenges we ran into was what platform to build this product on. We initially were going to build it for android mobile, but we later pivoted to a more hardware based approach with the raspberry pi.
 
- <summary>Click for more Pictures</summary>
-     
-     ![pic1](Images/IMG_2363.HEIC)
-     ![pic2](Images/IMG_2364.HEIC)
-     ![pic3](Images/IMG_2365.HEIC)
-     ![pic4](Images/IMG_2366.HEIC)
+<details><summary>Click for more Photos</summary>
+<p>
 
-   </details>
+**Picture 1**
+![pic1](Images/IMG_2363.HEIC)
+
+**Picture 2**
+![pic2](Images/IMG_2364.HEIC)
+
+**Picture 3**
+![pic3](Images/IMG_2365.HEIC)
+
+**Picture 4**
+![pic4](Images/IMG_2366.HEIC)
+
+</p>
+</details>
